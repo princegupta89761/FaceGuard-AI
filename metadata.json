@@ -1,0 +1,7 @@
+{
+  "name": "FaceGuard AI - Real-Time Face Detection & Recognition System",
+  "description": "Intelligent real-time facial recognition, identity verification, automated attendance management, unknown intruder alerts, and computer vision analytics platform.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
